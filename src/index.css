@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.slick-prev, .slick-next {
+  width: 80px; /* Adjust the width */
+  height: 80px; /* Adjust the height */
+  border-radius: 50%; /* Circular arrows */
+  z-index: 1;
+
+}
+
